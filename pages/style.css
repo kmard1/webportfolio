@@ -244,6 +244,7 @@ a:focus {
 /* about section */
 .about_section {
   background-color: #f8faf9;
+  background-image: url(../images/bg.png);
 
 }
 
